@@ -1,0 +1,43 @@
+/* #ZoidbergJesus {
+    width:200px;
+} */
+.Zoidberg {
+    display:flex;
+    justify-content: center;
+    height: 200px;
+    width:100%;
+    background-color:black;
+    border:20px solid red;
+}
+.words {
+background-color:black;
+color:white;
+display:flex;
+justify-content: center;
+}
+.leftnright{
+display:flex;
+}
+.lefty{
+width:45%;
+}
+.righty {
+background-color:grey;
+text-align:middle;
+width:75%;
+}
+.three {
+display:flex;
+justify-content:space-between;
+background-color:black;
+padding: 20px;
+border: 10px solid red;
+}
+.pictur {
+width:600px;
+height:400px;
+}
+.fish {
+display:flex;
+text-align:center;
+}
